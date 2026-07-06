@@ -1,62 +1,108 @@
 # Hi, I'm Sahil Patel
 
-Final-year B.Sc. Life Sciences student with interests in **Data Analytics, Python, Data Visualization, Business Intelligence, and scientific data analysis**.
+Final-year **B.Sc. Life Sciences** student with growing skills in **Data Analytics, Python, Data Visualization, Business Intelligence, and scientific data analysis**.
 
-I am currently building my skills through **IBM SkillsBuild programs, hands-on learning, and project work**, while also combining my background in **Botany, Zoology, and Geology** with analytical and technical tools.
+I come from an academic background in **Botany, Zoology, and Geology**, and I am building a professional portfolio at the intersection of **science, analytics, and technology** through **IBM SkillsBuild programs, project-based learning, and internship experience**.
+
+I am currently looking to strengthen my profile for **remote internships, apprenticeships, and entry-level opportunities** in areas such as **Data Analytics, Business Intelligence, Python-based analysis, research support, and science-related analytical roles**.
 
 ---
 
 ## About Me
 
 - 🎓 Final-year **B.Sc. Life Sciences** student
-- 📊 Interested in **Data Analytics, Data Visualization, Business Intelligence, and Python**
 - 🔬 Academic background in **Botany, Zoology, and Geology**
-- 🧪 Practical laboratory experience from college coursework
-- 📚 Completed **IBM SkillsBuild** learning programs and internship experiences
-- 🚀 Actively building projects for internships, apprenticeships, and entry-level opportunities
+- 🧪 Practical laboratory experience through college coursework and life sciences practicals
+- 📊 Interested in **Data Analytics, Data Visualization, Business Intelligence, and Python**
+- 📚 Completed **IBM SkillsBuild** internship and project-based learning programs
+- 💻 Building a portfolio of **data analysis, visualization, and science-related analytics projects**
+- 🚀 Open to **remote internships, apprenticeships, and entry-level opportunities**
 
 ---
 
 ## Current Focus
 
-I am currently focused on improving my skills in:
+I am currently focused on improving my practical skills in:
 
-- Python for Data Analysis
-- Data Cleaning and Data Visualization
-- Jupyter Notebook
-- Excel and Business Intelligence concepts
-- Scientific and research-based data interpretation
-- Building portfolio projects for remote internships and apprenticeships
+- **Python for Data Analysis**
+- **Data Cleaning and Data Visualization**
+- **Jupyter Notebook**
+- **Business Intelligence concepts**
+- **Scientific and research-based data interpretation**
+- Building **portfolio projects** for internships and professional opportunities
 
 ---
 
-## Skills
+## Technical Skills
 
-### Technical Skills
 - Python
 - Data Analysis
 - Data Visualization
 - Data Cleaning
-- Jupyter Notebook
+- Data Collection
 - Data Literacy
 - Business Intelligence
+- Jupyter Notebook
 - Databases
+- Analytics Tools
 - Big Data Foundations
-- Apache Hadoop (basic knowledge)
+- Apache Hadoop (foundational knowledge)
 
-### Scientific / Academic Skills
+---
+
+## Scientific / Academic Skills
+
 - Laboratory Work
 - Scientific Observation
 - Data Recording
-- Report Writing
+- Scientific Report Writing
+- Experimental Documentation
 - Research and Analysis
-
-### Professional Skills
-- Communication
 - Critical Thinking
+
+---
+
+## Professional Skills
+
+- Communication
 - Decision Making
 - Professionalism
+- Problem Solving
 - Emotional Intelligence
+- Team Collaboration
+
+---
+
+## Internship & Learning Experience
+
+### IBM SkillsBuild AI Strategy & Business Intelligence Internship
+Completed a **6-week internship** focused on **AI Strategy, Business Intelligence, data-driven thinking, communication, and professional development** in collaboration with **AICTE and CSRBOX**.
+
+### IBM SkillsBuild Project Based Learning Program - Data Analytics
+Completed a **project-based learning program** focused on **data analytics, insight generation, and analytics-based learning** through IBM SkillsBuild and CSRBOX.
+
+### Advanced Diploma in Computer Applications (ADCA)
+Completed a **1-year diploma in computer applications** with **A+ grade and 90%**, strengthening my computer fundamentals and digital skills base.
+
+---
+
+## Certifications & Learning
+
+- IBM SkillsBuild AI Strategy & Business Intelligence Internship
+- IBM SkillsBuild Project Based Learning Program - Decoding Data: Insights and Impact through Analytics
+- Advanced Diploma in Computer Applications (ADCA)
+- IBM SkillsBuild badges in:
+  - Data Visualization
+  - Data Analysis
+  - Data Literacy
+  - Big Data
+  - Data Ethics
+  - Data Quality
+  - Jupyter Notebook
+  - Python
+  - Communication Skills
+  - Critical Thinking
+  - Professionalism
 
 ---
 
@@ -64,27 +110,32 @@ I am currently focused on improving my skills in:
 
 I am currently building and uploading projects related to:
 
-- Data Analytics using Python
-- Data Visualization projects
-- Scientific / Life Sciences data analysis projects
-- IBM SkillsBuild learning and analytics-based work
+- **Python-based data analysis**
+- **Data cleaning and visualization**
+- **Scientific / Life Sciences data analysis**
+- **IBM SkillsBuild learning and analytics-based work**
+- **Beginner portfolio projects for internships and apprenticeships**
 
-More project repositories will be added here as I continue building my portfolio.
+As I complete more projects, this section will be updated with direct repository links.
 
 ---
 
-## Certifications & Learning
+## Career Interests
 
-- IBM SkillsBuild AI Strategy & Business Intelligence Internship
-- IBM SkillsBuild Project Based Learning Program - Data Analytics
-- Advanced Diploma in Computer Applications (ADCA)
-- IBM SkillsBuild badges in data, analytics, big data, communication, and professional skills
+I am particularly interested in opportunities related to:
+
+- Data Analytics Internships
+- Business Intelligence Internships
+- Python / Data Projects
+- Research Internships
+- Science + Data / Analytics roles
+- Remote and virtual apprenticeship opportunities
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: [Sahil Patel LinkedIn] (https://linkedin.com/in/sahil-patel-data)
-- GitHub: [This profile]
+- **LinkedIn:** [Sahil Patel LinkedIn] (https://linkedin.com/in/sahil-patel-data)
+- **GitHub:** [Sahil Patel GitHub] (https://github.com/sahilpatel-data)
 
 Thanks for visiting my GitHub profile.
